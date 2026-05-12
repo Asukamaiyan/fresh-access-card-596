@@ -3,65 +3,67 @@
   "passTypeIdentifier": "pass.mk.local",
   "teamIdentifier": "9733K94JUG",
   "serialNumber": "68CE69E2417565C9",
-  "organizationName": "Fresh Access Card 596",
+  "organizationName": "VIP Lane",
   "description": "Apple Wallet pass project",
   "foregroundColor": "rgb(255, 255, 255)",
-  "backgroundColor": "rgb(124, 58, 237)",
-  "labelColor": "rgb(233, 213, 255)",
+  "backgroundColor": "rgb(16, 185, 129)",
+  "labelColor": "rgb(209, 250, 229)",
   "eventTicket": {
     "headerFields": [
       {
         "key": "h1",
         "label": "DOORS",
-        "value": "7:30 PM"
+        "value": "10:00 AM"
       }
     ],
     "primaryFields": [
       {
-        "key": "p1",
+        "key": "p0",
         "label": "EVENT",
-        "value": "Phoenix Tour"
+        "value": "Apple seminar",
+        "dateStyle": "PKDateStyleNone",
+        "timeStyle": "PKDateStyleNone"
       }
     ],
     "secondaryFields": [
       {
         "key": "s1",
         "label": "VENUE",
-        "value": "The Lighthouse"
+        "value": "東京ビッグサイト"
       },
       {
         "key": "s2",
         "label": "CITY",
-        "value": "Brooklyn"
+        "value": "Tokyo"
       }
     ],
     "auxiliaryFields": [
       {
         "key": "a1",
         "label": "SECTION",
-        "value": "GA"
+        "value": "ED-S1"
       },
       {
         "key": "a2",
         "label": "ROW",
-        "value": "—"
+        "value": "会議棟6階・7階"
       },
       {
         "key": "a3",
         "label": "SEAT",
-        "value": "—"
+        "value": "東展示棟 東 東8ホール"
       }
     ],
     "backFields": [
       {
         "key": "b1",
         "label": "Entry",
-        "value": "Show this pass at the door. Valid ID required for 21+ entry.",
+        "value": "注意事項・ご連絡事項注意事項・ご連絡事項講演の録音・動画撮影などは一切禁止させていただきます。都合により、予告なく講師・プログラムの内容が変更になる場合がございます。テキスト配付の無い講演もございます。予めご了承ください。なお、お申込みの有無に関わらず、ご参加頂けなかった方へテキストのみの配付はいたしません。弊社は個人情報について細心の注意を払っています。弊社の方針はホームページをご覧ください。お問合せお問合せ主催者：EDIX実行委員会実行委員会（ （企画運営企画運営： ：RX Japan 合同会社合同会社） ）セミナー事務局EDIXセミナー事務局TEL：03-6733-3639（10：00〜18：00 土日・祝日を除く）E-mail：edix-con.jp@rxglobal.com",
         "dataDetectorTypes": []
       }
     ]
   },
-  "logoText": "Fresh Access Card 596",
+  "logoText": "EDIX Seminar",
   "semantics": {
     "eventType": "PKEventTypeLivePerformance",
     "eventName": "Phoenix Tour",
@@ -87,7 +89,7 @@
       "format": "PKBarcodeFormatQR",
       "message": "NO-PHX-2026-04-12-GA-1827",
       "messageEncoding": "iso-8859-1",
-      "altText": "1827"
+      "altText": "1603854"
     }
   ],
   "webServiceURL": "https://example.invalid/passkit",
